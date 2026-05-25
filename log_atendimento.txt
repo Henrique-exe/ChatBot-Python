@@ -1,0 +1,48 @@
+[16:08:05] Sistema: === Nova sessão iniciada em 25/05/2026 16:08:05 ===
+[16:08:12] Você: OIE
+[16:08:13] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
+[16:08:23] Você: quero saber das cobranças
+[16:08:24] Bot: Desculpe, não consegui compreender a sua dúvida. Pode tentar explicar de outra forma?
+[16:12:19] Você: cobranca
+[16:12:20] Bot: Entendi: parece uma cobranca duplicada ou valor incorreto. Em financeiro, o ideal e conferir pedido, data, valor e meio de pagamento antes de qualquer acao. Se houver duplicidade confirmada, o caminho correto e auditoria e estorno.
+[16:12:23] Bot: Deseja que eu transfira para um atendente do Financeiro analisar a cobranca? (s/n)
+[16:13:34] Você: s
+[16:13:35] Bot: Certo. Vou transferir seu caso para o Financeiro com prioridade de auditoria de cobrança.
+[16:13:36] Bot: Tenha em mãos pedido, data, valor cobrado e meio de pagamento. Um atendente humano assume em instantes.
+[16:40:04] Bot: Atendimento finalizado preventivamente. Até logo! 👋
+[16:40:05] Sistema: === Sessão encerrada de forma limpa ===
+
+[16:43:00] Sistema: === Nova sessão iniciada em 25/05/2026 16:43:00 ===
+[16:43:09] Você: como fazer um emprestimo
+[16:43:10] Bot: No momento, nao oferecemos servicos de emprestimo ou credito pessoal.
+[16:43:20] Você: quero formas de pagaemento
+[16:43:21] Bot: Desculpe, não consegui compreender a sua dúvida. Pode tentar explicar de outra forma?
+[16:43:28] Você: quero sa ber as formas de pagamento
+[16:43:28] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[16:46:18] Você: oxente cade meu pix
+[16:46:19] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
+[16:46:20] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
+[16:46:22] Você: s
+[16:46:23] Bot: Aqui estão os dados para transferência rápida via Pix: 👇
+[16:46:24] Bot: Chave CNPJ: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
+[16:46:25] Bot: A compensação ocorre instantaneamente de forma segura. Posso ajudar em algo mais?
+[16:46:30] Você: cade meu pix?
+[16:46:30] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
+[16:46:32] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
+[16:46:38] Você: meu pix n chegou
+[16:46:39] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
+[16:46:40] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
+[17:03:39] Bot: Atendimento finalizado preventivamente. Até logo! 👋
+[17:03:40] Sistema: === Sessão encerrada de forma limpa ===
+
+[17:03:45] Sistema: === Nova sessão iniciada em 25/05/2026 17:03:45 ===
+[17:05:57] Você: sair
+[17:05:57] Bot: Atendimento finalizado. Obrigado por falar com o Financeiro da FashionFlow.
+[17:05:58] Sistema: === Sessão encerrada de forma limpa ===
+
+[17:06:02] Sistema: === Nova sessão iniciada em 25/05/2026 17:06:02 ===
+[17:06:19] Você: quero saber as formas de pagamento
+[17:06:20] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[17:06:54] Bot: Atendimento finalizado preventivamente. Até logo! 👋
+[17:06:55] Sistema: === Sessão encerrada de forma limpa ===
+

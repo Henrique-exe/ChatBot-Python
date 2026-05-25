@@ -112,8 +112,8 @@ def buscar_resposta(mensagem):
 
 
 FALLBACK_RESPOSTA = "Desculpe, não consegui compreender a sua dúvida. Pode tentar explicar de outra forma?"
-RESPOSTAS_SIM = ["s", "sim", "ss", "aham", "claro", "quero", "pode", "bora"]
-RESPOSTAS_NAO = ["n", "nao", "não", "negativo", "deixa", "cancelar", "cancela"]
+RESPOSTAS_SIM = ["s", "sim", "ss", "aham", "claro", "quero", "pode", "bora", "agora", "sim", "vamos", "combinado", "confirmo", "confirmar", "confirmado"]
+RESPOSTAS_NAO = ["n", "nao", "não", "negativo", "deixa", "cancelar", "cancela", "nao quero", "não quero", "desisto", "desistir", "cancelado", "cancelar", "cancelamos"]
 MENU_FINANCEIRO = {
     "1": "cobranca incorreta",
     "cobranca": "cobranca incorreta",
@@ -208,7 +208,7 @@ def entrada_muda_de_assunto(entrada, contexto_atual):
 
 
 # ─────────────────────────────────────────────────────────────
-#  PROCESSAMENTO DE CONTEXTOS (Correções dos Bugs 2, 4 e Melhoria 2)
+#  PROCESSAMENTO DE CONTEXTOS 
 # ─────────────────────────────────────────────────────────────
 
 def processar_contexto(entrada, entrada_lower):
@@ -218,7 +218,7 @@ def processar_contexto(entrada, entrada_lower):
         emitir_resultado(buscar_resposta(MENU_FINANCEIRO[entrada_lower]))
         return True
 
-    # ── CEP com limite de tentativas (Melhoria 2) ───────────
+    # ── CEP com limite de tentativas  ───────────
     if contexto_pergunta == "aguardando_cep":
         if entrada_lower in ["sair", "cancelar", "n", "nao", "não"]:
             bot_falar("Sem problemas! Cancelamos o cálculo do frete.")
@@ -249,7 +249,7 @@ def processar_contexto(entrada, entrada_lower):
                     f"Formato inválido. Digite um CEP com 8 dígitos numéricos (Tentativa {tentativas_cep}/3):")
         return True
 
-    # ── Validação robusta de Crédito (Correção do Bug 4) ────
+    # ── Validação robusta de Crédito  ────
     if contexto_pergunta == "credito":
         novo_assunto = entrada_muda_de_assunto(entrada, contexto_pergunta)
         if novo_assunto:
@@ -285,12 +285,12 @@ def processar_contexto(entrada, entrada_lower):
         contexto_pergunta = None
         return True
 
-    # ── Validação de confirmações Sim/Não (Bug 2 corrigido) ──
+    # ── Validação de confirmações Sim/Não  ──
     if contexto_pergunta and entrada_lower in RESPOSTAS_SIM + RESPOSTAS_NAO:
         respondeu_sim = entrada_lower in RESPOSTAS_SIM
 
         if respondeu_sim:
-            # Bug 2: Agrupando estritamente quem segue o fluxo de dados Pix
+            # Agrupando estritamente quem segue o fluxo de dados Pix
             if contexto_pergunta in ["pix", "desconto"]:
                 bot_falar(
                     "Aqui estão os dados para transferência rápida via Pix: 👇")
@@ -381,7 +381,7 @@ def processar_contexto(entrada, entrada_lower):
 
 
 # ─────────────────────────────────────────────────────────────
-#  PROCESSAMENTO DE INTENÇÕES (Correção do Bug 1 e Melhoria 4)
+#  PROCESSAMENTO DE INTENÇÕES E FLUXO PRINCIPAL
 # ─────────────────────────────────────────────────────────────
 
 def processar_intencao(entrada):
@@ -390,7 +390,7 @@ def processar_intencao(entrada):
     resultado = buscar_resposta(entrada)
     continuar = emitir_resultado(resultado)
 
-    # Melhoria 4: Monitoria de loops de incompreensão do usuário
+    # Monitoria de loops de incompreensão do usuário
     if resultado.get("tag") != "fallback":
         sem_entender = 0
     else:
@@ -407,7 +407,7 @@ def processar_intencao(entrada):
 
 
 # ─────────────────────────────────────────────────────────────
-#  INICIALIZAÇÃO DO SISTEMA (Aviso 1 Tratado)
+#  INICIALIZAÇÃO DO SISTEMA
 # ─────────────────────────────────────────────────────────────
 
 try:
@@ -430,14 +430,22 @@ historico_recente = []  # Coleta as respostas enviadas no turno ativo
 registrar_log(
     "Sistema", f"=== Nova sessão iniciada em {datetime.now().strftime('%d/%m/%Y %H:%M:%S')} ===")
 
-print("--- Chatbot Financeiro FashionFlow Iniciado ---")
-print(f"✅ {len(intencoes)} intenções de gírias e transações mapeadas do CSV.\n")
+print(" \n─────────────────────────────────────────────────────────────")
+
+print("──── Chatbot Financeiro FashionFlow Iniciado ────")
+
+print(" \n─────────────────────────────────────────────────────────────")
+
+print("\n\nCarregando base de conhecimento do CSV...")  
+
+print(f"✅ {len(intencoes)} intenções mapeadas do CSV.\n")
+
+print("Bot: Olá, Como posso te ajudar?")
 
 # ─────────────────────────────────────────────────────────────
 #  LOOP PRINCIPAL
 # ─────────────────────────────────────────────────────────────
 
-while True:
     try:
         entrada = input("Você: ").strip()
     except (KeyboardInterrupt, EOFError):
