@@ -445,7 +445,7 @@ print("Bot: Olá, Como posso te ajudar?")
 # ─────────────────────────────────────────────────────────────
 #  LOOP PRINCIPAL
 # ─────────────────────────────────────────────────────────────
-
+while True:
     try:
         entrada = input("Você: ").strip()
     except (KeyboardInterrupt, EOFError):
@@ -470,8 +470,7 @@ print("Bot: Olá, Como posso te ajudar?")
                 time.sleep(0.4)
                 print(f"Bot (Repetindo): {msg}")
         else:
-            print(
-                "Bot: Ainda não há mensagens registradas no histórico recente para que eu possa repetir.")
+            print("Bot: Ainda não há mensagens registradas no histórico recente para que eu possa repetir.")
         continue
 
     # Transfere as mensagens emitidas no último turno para a memória estática de repetição
@@ -487,4 +486,5 @@ print("Bot: Olá, Como posso te ajudar?")
     if not continuar:
         break
 
+# Esta linha fica fora do loop, executada apenas após o 'break'
 registrar_log("Sistema", "=== Sessão encerrada de forma limpa ===\n")
