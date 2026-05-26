@@ -75,3 +75,65 @@
 [18:50:05] Bot: Registrado com sucesso: 'visa, 3x'. Redirecionando para o Gateway seguro.
 [18:50:21] Você: a camisa custa 200 reais, quanto fica o total somando a taxa de entrega somando 15 reais ao meu endereço
 [18:50:21] Bot: Desculpe, não consegui compreender a sua dúvida. Pode tentar explicar de outra forma?
+[10:45:53] Sistema: === Nova sessão iniciada em 26/05/2026 10:45:53 ===
+[10:45:57] Você: ola
+[10:45:57] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
+[10:46:06] Você: quero saber como pagar no pix
+[10:46:06] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[10:46:14] Você: quero pagar no pix
+[10:46:14] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
+[10:46:15] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
+[10:46:21] Você: s
+[10:46:22] Bot: Aqui estão os dados oficiais para transferência segura via Pix: 👇
+[10:46:23] Bot: Chave CNPJ: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
+[10:46:24] Bot: A compensação ocorre instantaneamente. Posso ajudar em algo mais?
+[10:46:45] Você: queria saber o preço da soma de uma camisa de 150 mais uma bermuda de 80
+[10:46:45] Bot: Desculpe, não consegui compreender a sua dúvida financeira. Pode tentar explicar de outra forma?
+[10:57:04] Bot: Atendimento finalizado preventivamente. Até logo! 👋
+[10:57:05] Sistema: === Sessão encerrada de forma limpa ===
+
+[10:58:25] Sistema: === Nova sessão iniciada em 26/05/2026 10:58:25 ===
+[10:58:28] Você: ola
+[10:58:29] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
+[10:58:34] Você: quero pagar no pix
+[10:58:35] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
+[10:58:36] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
+[10:59:02] Você: s
+[10:59:02] Bot: Aqui estão os dados oficiais para transferência segura via Pix: 👇
+[10:59:03] Bot: Chave CNPJ: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
+[10:59:04] Bot: A compensação ocorre instantaneamente. Posso ajudar em algo mais?
+[10:59:14] Você: quero saber a soma de 2 camisas de 150 reais
+[10:59:14] Bot: Desculpe, não consegui compreender a sua dúvida financeira. Pode tentar explicar de outra forma?
+[10:59:40] Você: se eu tenho uma camisa de 150 e uma bermuda de 80 qual o valor eu recebo de desconto no pix
+[10:59:40] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
+[10:59:42] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
+[10:59:51] Você: quais são as opções de desconto
+[10:59:51] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[11:01:03] Você: sair
+[11:01:03] Bot: Atendimento finalizado. Obrigado por falar com o Financeiro da FashionFlow.
+[11:01:04] Sistema: === Sessão encerrada de forma limpa ===
+
+[11:01:10] Sistema: === Nova sessão iniciada em 26/05/2026 11:01:10 ===
+[11:01:19] Você: quero saber as opções de desconto
+[11:01:19] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[11:02:30] Bot: Atendimento finalizado preventivamente. Até logo! 👋
+[11:02:30] Sistema: === Sessão encerrada de forma limpa ===
+
+[11:02:34] Sistema: === Nova sessão iniciada em 26/05/2026 11:02:34 ===
+[11:02:45] Você: quais são as formas de desconto ativas
+[11:02:45] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[11:03:58] Bot: Atendimento finalizado preventivamente. Até logo! 👋
+[11:03:58] Sistema: === Sessão encerrada de forma limpa ===
+
+[11:04:03] Sistema: === Nova sessão iniciada em 26/05/2026 11:04:03 ===
+[11:04:08] Você: quais são os descontos ativos
+[11:04:23] Sistema: === Nova sessão iniciada em 26/05/2026 11:04:23 ===
+[11:04:30] Você: quais são os descontos ativos?
+[11:04:30] Bot: Promocao ativa: 5% de desconto para compras via Pix.
+[11:04:31] Bot: Deseja gerar a chave Pix agora? (s/n)
+[11:04:36] Você: quais as formas de desconto
+[11:04:36] Bot: Promocao ativa: 5% de desconto para compras via Pix.
+[11:04:37] Bot: Deseja gerar a chave Pix agora? (s/n)
+[11:04:45] Você: quais são as opçoes de desconto?
+[11:04:45] Bot: Promocao ativa: 5% de desconto para compras via Pix.
+[11:04:47] Bot: Deseja gerar a chave Pix agora? (s/n)

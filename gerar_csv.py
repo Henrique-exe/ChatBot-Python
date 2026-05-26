@@ -675,7 +675,6 @@ intencoes = [
             "saber as formas de pagamento",
             "formas de pagamento",
             "formas de pagamentos",
-            "quais formas",
             "como posso pagar",
             "aceita o que",
             "aceita oq",
@@ -701,6 +700,7 @@ intencoes = [
             "formas de quitar",
             "como posso pagar o pedido",
             "opcoes de acerto",
+            "como pago","meios de pagamento", "opção de pagamento", "opção de acerto", "quais formas de pagamento aceitam", "quais formas de pagamento voces aceitam", "quais formas de pagamento vocês aceitam", "opção de pagamento", "opção de acerto", "quais formas de pagamento aceitam", "quais formas de pagamento voces aceitam", "quais formas de pagamento vocês aceitam"
         ]),
         "resposta": (
             "Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard "
@@ -742,6 +742,7 @@ intencoes = [
             "pixs",
             "piz",
             "piss",
+
             "pich",
             "pikz",
             "xave pix",
@@ -753,6 +754,15 @@ intencoes = [
             "copia e cola do pix",
             "codigo do pix",
             "gerar pix",
+            "cade meu pix",
+            "meu pix n chegou",
+            "oxente cade meu pix",
+            "chave pikisi",
+            "gerar copia e cola",
+            "pics",
+            "piz",
+            "xave pix"
+
         ]),
         "resposta": "Temos pagamento via Pix com aprovacao rapida e 5% de desconto.",
         "pergunta_seguinte": "Deseja gerar a chave Pix para o pedido? (s/n)",
@@ -999,10 +1009,14 @@ intencoes = [
         "prioridade": 14,
         "palavras": termos([
             "cupom",
+            "quero saber as opções de desconto",
+            "cupom de desconto",
+            
             "desconto",
             "voucher",
             "promocao",
             "descontos",
+            "opções de desconto",
             "cupons",
             "tem desconto",
             "tem promocao",
@@ -1024,6 +1038,19 @@ intencoes = [
             "codigo promocional",
             "ganhar desconto",
             "algum cupom",
+            "opções desconto"  ,
+            "tem cupom de desconto",
+            "cupom valido",
+            "cupom de desconto valido",
+            "cupom de desconto ativo",
+            "cupom de desconto disponível",
+            "tem algum cupom de desconto",
+            "quero um cupom de desconto",
+            "me dá um cupom de desconto",
+            "tem alguma promoção ativa",
+            "promoção ativa",
+            "desconto ativos",
+
         ]),
         "resposta": "Promocao ativa: 5% de desconto para compras via Pix.",
         "pergunta_seguinte": "Deseja gerar a chave Pix agora? (s/n)",
