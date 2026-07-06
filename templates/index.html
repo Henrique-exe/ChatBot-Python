@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>FashionFlow — Módulo Financeiro</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="{{ url_for('static', filename='favicon.svg') }}" type="image/svg+xml" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar" aria-label="Ações financeiras">
+        <div class="brand-mark">
+          <span class="brand-icon">FF</span>
+          <div>
+            <strong>FashionFlow</strong>
+            <small>Módulo financeiro</small>
+          </div>
+        </div>
+
+        <section class="actions-panel">
+          <p class="eyebrow">Ações financeiras</p>
+          <button class="quick-action" data-message="calcular desconto">
+            <i aria-hidden="true">%</i>
+            <span>
+              <strong>Calcular desconto</strong>
+              <small>Simule descontos e valor final</small>
+            </span>
+          </button>
+          <button class="quick-action" data-message="paguei e nao constou">
+            <i aria-hidden="true">✓</i>
+            <span>
+              <strong>Confirmar pagamento</strong>
+              <small>Consulte pagamentos por CPF</small>
+            </span>
+          </button>
+          <button class="quick-action" data-message="formas de pagamento">
+            <i aria-hidden="true">◇</i>
+            <span>
+              <strong>Formas de pagamento</strong>
+              <small>Pix, cartão, boleto e crédito</small>
+            </span>
+          </button>
+          <button class="quick-action" data-message="parcelamento">
+            <i aria-hidden="true">12</i>
+            <span>
+              <strong>Parcelamento</strong>
+              <small>Veja opções de parcelamento</small>
+            </span>
+          </button>
+          <button class="quick-action" data-message="comprovantes de pagamento">
+            <i aria-hidden="true">▤</i>
+            <span>
+              <strong>Recibo</strong>
+              <small>Comprovantes e histórico financeiro</small>
+            </span>
+          </button>
+          <button class="quick-action clear-action" id="clearButton">
+            <i aria-hidden="true">↺</i>
+            <span>
+              <strong>Limpar conversa</strong>
+              <small>Recomeçar atendimento</small>
+            </span>
+          </button>
+        </section>
+
+        <section class="support-card">
+          <p>Pronto para demonstrar</p>
+          <ul>
+            <li>Descontos e valores</li>
+            <li>Pagamentos por CPF</li>
+            <li>Recibos e parcelamento</li>
+          </ul>
+        </section>
+      </aside>
+
+      <section class="chat-panel" aria-label="Chat financeiro">
+        <header class="hero">
+          <div>
+            <h1>FashionFlow — Módulo Financeiro</h1>
+            <p>Atendimento de descontos, pagamentos, parcelamentos e recibos</p>
+          </div>
+          <div class="status-pill">
+            <span></span>
+            Módulo ativo
+          </div>
+        </header>
+
+        <section class="chat-card">
+          <div class="chat-header">
+            <div>
+              <strong>Atendimento financeiro</strong>
+              <small>Fluxos guiados para apresentação acadêmica</small>
+            </div>
+            <span class="secure-label">Atendimento guiado</span>
+          </div>
+
+          <div class="messages" id="messages" aria-live="polite">
+            <article class="message bot">
+              <div class="avatar">FF</div>
+              <div class="bubble">
+                <span>Financeiro</span>
+                <p>{{ welcome_message }}</p>
+              </div>
+            </article>
+            <section class="suggestions" id="suggestions" aria-label="Sugestões de teste">
+              <span>Experimente:</span>
+              <p>Calcular 10% de desconto em R$ 150,00</p>
+              <p>Confirmar pagamento por CPF</p>
+              <p>Consultar formas de pagamento</p>
+            </section>
+          </div>
+
+          <form class="composer" id="chatForm">
+            <input
+              id="messageInput"
+              name="message"
+              type="text"
+              autocomplete="off"
+              placeholder="Digite sua dúvida financeira ou escolha uma ação ao lado..."
+              aria-label="Mensagem"
+            />
+            <button type="submit">Enviar</button>
+          </form>
+        </section>
+      </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+  </body>
+</html>

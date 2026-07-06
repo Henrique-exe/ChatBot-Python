@@ -1,0 +1,5 @@
+id,cpf,produto,valor,status
+001,123.456.789-00,Jaqueta de couro M,250.00,Pago
+002,987.654.321-00,Calça sarja G,180.00,Pago
+003,111.222.333-00,Blusa P,90.00,Cancelado
+004,222.333.444-55,Camisa social M,135.00,Pago

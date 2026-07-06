@@ -1,139 +1,465 @@
-[16:08:05] Sistema: === Nova sessão iniciada em 25/05/2026 16:08:05 ===
-[16:08:12] Você: OIE
-[16:08:13] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
-[16:08:23] Você: quero saber das cobranças
-[16:08:24] Bot: Desculpe, não consegui compreender a sua dúvida. Pode tentar explicar de outra forma?
-[16:12:19] Você: cobranca
-[16:12:20] Bot: Entendi: parece uma cobranca duplicada ou valor incorreto. Em financeiro, o ideal e conferir pedido, data, valor e meio de pagamento antes de qualquer acao. Se houver duplicidade confirmada, o caminho correto e auditoria e estorno.
-[16:12:23] Bot: Deseja que eu transfira para um atendente do Financeiro analisar a cobranca? (s/n)
-[16:13:34] Você: s
-[16:13:35] Bot: Certo. Vou transferir seu caso para o Financeiro com prioridade de auditoria de cobrança.
-[16:13:36] Bot: Tenha em mãos pedido, data, valor cobrado e meio de pagamento. Um atendente humano assume em instantes.
-[16:40:04] Bot: Atendimento finalizado preventivamente. Até logo! 👋
-[16:40:05] Sistema: === Sessão encerrada de forma limpa ===
+[14:03:45] Sistema: === Nova sessão: 05/07/2026 14:03:45 ===
+[14:03:47] Você: ola
+[14:03:48] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
+[14:03:57] Você: meu nome é henrique
+[14:03:58] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:04:10] Você: quero consultar um pagamento
+[14:04:10] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:04:20] Você: quero consultar o status atual do meu pagamento
+[14:04:20] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:04:21] Bot: Percebi que suas dúvidas demandam atenção personalizada.
+[14:04:22] Bot: Gostaria que eu transferisse para um atendente humano? (s/n)
+[14:04:25] Você: s
+[14:04:25] Bot: Conectando com o suporte humano agora... 👤 Aguarde.
+[14:04:40] Você: quero saber o status do meu pagamento
+[14:04:41] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:05:29] Você: extrato financeiro
+[14:05:29] Bot: Para consultar seu extrato ou historico completo de transacoes, voce pode acessar a aba Minha Conta ou solicitar o relatorio detalhado.
+[14:05:39] Você: quero um relatorio detalhado
+[14:05:40] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:05:47] Você: como pagar no pix
+[14:05:47] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[14:05:58] Você: quero pagar no pix
+[14:05:58] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[14:06:06] Você: gerar qr code pix
+[14:06:06] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
+[14:06:07] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
+[14:06:09] Você: s
+[14:06:09] Bot: Dados para Pix: 👇
+[14:06:10] Bot: Chave CNPJ: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
+[14:06:11] Bot: Compensação instantânea. Posso ajudar em algo mais?
+[14:06:16] Você: quero pagar no pix
+[14:06:16] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[14:06:21] Você: quuero pagar no debito
+[14:06:22] Bot: Pagamento no debito disponivel nas bandeiras Visa e Mastercard.
+[14:06:23] Bot: Qual a bandeira do seu cartao de debito? (Ex: Visa)
+[14:06:26] Você: visa
+[14:06:26] Bot: Registrado. Redirecionando para o gateway seguro.
+[14:06:33] Você: quero pagar no boleto
+[14:06:34] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[14:06:44] Você: quais são as formas de pagamento
+[14:06:44] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[14:06:56] Você: quero saber o valor de uma camisa
+[14:06:56] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:07:03] Você: quero saber qual o meu carrinho
+[14:07:03] Bot: Fechar pedidos e ver o catálogo de produtos é com o time de Vendas! 🛍️ Por aqui no Financeiro eu cuido de pagamento, cobrança, reembolso e nota fiscal. Posso ajudar com algo desses assuntos?
+[14:07:14] Você: comocomo consultar o frete de um produto
+[14:07:14] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:07:23] Você: como consultar o frete de um produto
+[14:07:23] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:07:24] Bot: Percebi que suas dúvidas demandam atenção personalizada.
+[14:07:25] Bot: Gostaria que eu transferisse para um atendente humano? (s/n)
+[14:07:27] Você: n
+[14:07:28] Bot: Entendido. Operação cancelada. Como posso ajudar?
+[14:07:40] Você: quero saber quando meu pedido ira chegar
+[14:07:40] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:07:45] Você: codigo pix
+[14:07:46] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
+[14:07:47] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
+[14:07:48] Você: n
+[14:07:49] Bot: Entendido. Operação cancelada. Como posso ajudar?
+[14:07:57] Você: quais são as formas de desconto disponiveis?
+[14:07:57] Bot: Para calcular, digite apenas números. Ex: 150.30
+[14:08:05] Você: 150.30
+[14:08:05] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:08:11] Você: 150
+[14:08:11] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:08:26] Você: quero pagar no pix com desconto
+[14:08:27] Bot: Para calcular, digite apenas números. Ex: 150.30
+[14:08:33] Você: 140
+[14:08:33] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:08:34] Bot: Percebi que suas dúvidas demandam atenção personalizada.
+[14:08:35] Bot: Gostaria que eu transferisse para um atendente humano? (s/n)
+[14:08:37] Você: 21n
+[14:08:37] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:08:39] Você: siom
+[14:08:40] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:11:24] Você: eu estou devendo algo?
+[14:11:24] Bot: Posso verificar isso no seu pedido.
+[14:11:25] Bot: Deseja que eu consulte agora pelo seu CPF? (s/n)
+[14:11:28] Você: s
+[14:11:28] Bot: Pode me informar o CPF usado na compra?
+[14:11:41] Você: 003,111.222.333-00
+[14:11:41] Bot: Esse CPF não parece válido. Digite os 11 números do CPF (com ou sem pontuação).
+[14:12:19] Você: 111.222.333-00
+[14:12:19] Bot: O pedido #003 está com status 'Cancelado'.
+[14:12:28] Você: qual foi a minha compra?
+[14:12:28] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:12:38] Você: atualizar status de pedido
+[14:12:38] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[14:12:56] Você: quero pagar algo que estou devendo
+[14:12:56] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[14:12:58] Você: pqp
+[14:12:59] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[15:43:51] Bot: Atendimento finalizado preventivamente. Até logo! 👋
+[15:43:51] Sistema: === Sessão encerrada de forma limpa ===
+[15:44:04] Sistema: === Nova sessão: 05/07/2026 15:44:04 ===
+[15:44:25] Você: oiee
+[15:44:26] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[15:44:27] Você: oi
+[15:44:27] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
+[15:44:29] Você: oie
+[15:44:30] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
+[15:44:42] Você: quero saber como consultar o pix
+[15:44:43] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
+[15:44:44] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
+[15:44:51] Você: s
+[15:44:51] Bot: Dados para Pix: 👇
+[15:44:52] Bot: Chave CNPJ: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
+[15:44:53] Bot: Compensação instantânea. Posso ajudar em algo mais?
+[15:44:55] Você: sim
+[15:44:56] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[15:45:47] Você: quero consultar meu pedido
+[15:45:48] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[15:45:56] Você: como saber o frete
+[15:45:57] Bot: Cálculo de frete, CEP e rastreio de entrega é com o time de Logística. 🚚 Aqui no Financeiro posso ajudar com pagamento, cobrança ou reembolso, se precisar.
+[15:46:03] Você: quero calcular meu frete
+[15:46:03] Bot: Cálculo de frete, CEP e rastreio de entrega é com o time de Logística. 🚚 Aqui no Financeiro posso ajudar com pagamento, cobrança ou reembolso, se precisar.
+[15:46:16] Você: quero saber o tempo que ira demorar para o estorno do pix
+[15:46:17] Bot: Reembolsos por Pix costumam cair em ate 24h apos o estorno. No cartao, o prazo depende da operadora e pode aparecer na fatura atual ou seguinte.
+[15:46:19] Bot: Deseja iniciar ou consultar um processo de reembolso agora? (s/n)
+[15:46:20] Você: s
+[15:46:21] Bot: Acesse o portal para auditoria: financeiro.fashionflow.com/reembolsos
+[15:46:45] Você: caralho
+[15:46:45] Bot: Sinto muito pela experiencia, entendo sua frustracao. Vou tentar encaminhar isso do jeito certo.
+[15:46:46] Bot: Deseja falar com um atendente humano agora para resolvermos o caso? (s/n)
+[15:46:50] Você: s
+[15:46:51] Bot: Sinto muito de novo. Conectando com o suporte humano agora... 👤 Aguarde.
+[15:46:52] Bot: Você está na fila com um atendente humano. Se quiser, posso continuar te ajudando enquanto isso — é só digitar 'voltar'.
+[15:46:56] Você: voltar
+[15:46:57] Bot: Ok, voltei! Como posso te ajudar com o financeiro?
+[15:47:27] Você: quero saber o debito
+[15:47:27] Bot: Pagamento no debito disponivel nas bandeiras Visa e Mastercard.
+[15:47:28] Bot: Qual a bandeira do seu cartao de debito? (Ex: Visa)
+[15:47:35] Você: visa
+[15:47:35] Bot: Registrado. Redirecionando para o gateway seguro.
+[15:48:04] Você: quero pagar no boleto
+[15:48:04] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[19:29:03] Sistema: === Nova sessão: 05/07/2026 19:29:03 ===
+[19:53:15] Sistema: === Nova sessão (GUI): 05/07/2026 19:53:15 ===
+[19:53:49] Você: ola
+[19:53:49] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
+[19:53:58] Você: fala meu puto, quero comprar 2 roupas
+[19:53:58] Bot: Fechar pedidos e ver o catálogo de produtos é com o time de Vendas! 🛍️ Por aqui no Financeiro eu cuido de pagamento, cobrança, reembolso e nota fiscal. Posso ajudar com algo desses assuntos?
+[19:54:17] Você: humm me liguei, quanto tá duas camisas?
+[19:54:17] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[19:54:22] Você: duas camisas pretas po
+[19:54:22] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[19:54:27] Você: 2 camisas
+[19:54:27] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[19:54:27] Bot: Percebi que suas dúvidas demandam atenção personalizada.
+[19:54:27] Bot: Gostaria que eu transferisse para um atendente humano? (s/n)
+[19:54:31] Você: n
+[19:54:31] Bot: Entendido. Operação cancelada. Como posso ajudar?
+[19:54:37] Você: Quero pagar
+[19:54:37] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[19:54:58] Você: 2 camisas pretas, quero pagar no pix , quanto que dá?
+[19:54:58] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[21:48:18] Sistema: === Nova sessão (GUI): 05/07/2026 21:48:18 ===
+[21:48:23] Você: calcular desconto
+[21:48:23] Bot: Qual o valor da sua compra?
+[22:06:22] Você: parcelamento
+[22:06:22] Bot: Parcelamento disponivel in ate 12x sem juros no credito.
+[22:06:22] Bot: Qual a bandeira do cartao e quantidade de parcelas? (Ex: Visa, 3x)
+[22:06:25] Você: comprovantes de pagamento
+[22:06:25] Bot: Preciso de bandeira válida (Visa/Master) e parcelas se aplicável.
+[22:27:05] Você: paguei e nao constou
+[22:27:05] Bot: Se o banco aprovou e ainda nao constou na FashionFlow, precisamos tratar como conciliacao de pagamento. Confira se o pagamento foi para o pedido correto e aguarde alguns minutos; se persistir, um atendente valida pelo comprovante.
+[22:27:06] Bot: Deseja falar com o Financeiro para conferir a conciliacao do pagamento? (s/n)
+[23:55:24] Você: calcular desconto
+[23:55:24] Bot: Qual o valor da sua compra?
+[23:55:27] Você: formas de pagamento
+[23:55:27] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[23:55:27] Você: comprovantes de pagamento
+[23:55:27] Bot: Para consultar seu extrato ou historico completo de transacoes, voce pode acessar a aba Minha Conta ou solicitar o relatorio detalhado.
+[23:55:30] Você: Olá
+[23:55:30] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
+[00:05:15] Você: parcelamento
+[00:05:15] Bot: Parcelamento disponivel in ate 12x sem juros no credito.
+[00:05:15] Bot: Qual a bandeira do cartao e quantidade de parcelas? (Ex: Visa, 3x)
+[10:54:29] Você: Calcular desconto com R$ 150,00
+[10:54:29] Bot: 
+[96mResumo do cálculo financeiro FashionFlow:[0m
+Valores informados:
+- Valor 1: R$ 150,00
 
-[16:43:00] Sistema: === Nova sessão iniciada em 25/05/2026 16:43:00 ===
-[16:43:09] Você: como fazer um emprestimo
-[16:43:10] Bot: No momento, nao oferecemos servicos de emprestimo ou credito pessoal.
-[16:43:20] Você: quero formas de pagaemento
-[16:43:21] Bot: Desculpe, não consegui compreender a sua dúvida. Pode tentar explicar de outra forma?
-[16:43:28] Você: quero sa ber as formas de pagamento
-[16:43:28] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
-[16:46:18] Você: oxente cade meu pix
-[16:46:19] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
-[16:46:20] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
-[16:46:22] Você: s
-[16:46:23] Bot: Aqui estão os dados para transferência rápida via Pix: 👇
-[16:46:24] Bot: Chave CNPJ: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
-[16:46:25] Bot: A compensação ocorre instantaneamente de forma segura. Posso ajudar em algo mais?
-[16:46:30] Você: cade meu pix?
-[16:46:30] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
-[16:46:32] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
-[16:46:38] Você: meu pix n chegou
-[16:46:39] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
-[16:46:40] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
-[17:03:39] Bot: Atendimento finalizado preventivamente. Até logo! 👋
-[17:03:40] Sistema: === Sessão encerrada de forma limpa ===
+Subtotal: R$ 150,00
+Pix com 5% de desconto adicional: R$ 142,50
+Crédito: até 12x sem juros de R$ 12,50
+[10:54:29] Bot: Deseja seguir com Pix ou Cartão? (s/n)
+[10:54:33] Você: calcular desconto
+[10:54:33] Bot: Qual o valor da sua compra?
+[10:54:41] Você: 150
+[10:54:41] Bot: Sobre R$ 150,00, o desconto de 10% é de R$ 15,00.
+Valor final: R$ 135,00
+[10:54:49] Você: quero desconto 10 reais
+[10:54:49] Bot: 
+[96mResumo do cálculo financeiro FashionFlow:[0m
+Valores informados:
+- Valor 1: R$ 10,00
 
-[17:03:45] Sistema: === Nova sessão iniciada em 25/05/2026 17:03:45 ===
-[17:05:57] Você: sair
-[17:05:57] Bot: Atendimento finalizado. Obrigado por falar com o Financeiro da FashionFlow.
-[17:05:58] Sistema: === Sessão encerrada de forma limpa ===
+Subtotal: R$ 10,00
+Pix com 5% de desconto adicional: R$ 9,50
+Crédito: até 12x sem juros de R$ 0,83
+[10:54:49] Bot: Deseja seguir com Pix ou Cartão? (s/n)
+[10:55:15] Você: quero 100% de desconto
+[10:55:15] Bot: Promocao ativa: 5% de desconto para compras via Pix.
+[10:55:15] Bot: Deseja gerar a chave Pix agora? (s/n)
+[10:55:27] Você: comprovantes de pagamento
+[10:55:27] Bot: Para consultar seu extrato ou historico completo de transacoes, voce pode acessar a aba Minha Conta ou solicitar o relatorio detalhado.
+[10:55:29] Você: comprovantes de pagamento
+[10:55:29] Bot: Para consultar seu extrato ou historico completo de transacoes, voce pode acessar a aba Minha Conta ou solicitar o relatorio detalhado.
+[10:55:36] Você: comprovantes de pagamento
+[10:55:36] Bot: Para consultar seu extrato ou historico completo de transacoes, voce pode acessar a aba Minha Conta ou solicitar o relatorio detalhado.
+[11:16:22] Você: calcular desconto
+[11:16:22] Bot: Qual o valor da sua compra?
+[11:16:24] Você: calcular desconto
+[11:16:24] Bot: Qual o valor da sua compra?
+[11:16:25] Você: paguei e nao constou
+[11:16:25] Bot: Perfeito, vou verificar o pagamento do seu pedido.
+[11:16:25] Bot: Pode me informar o CPF usado na compra?
+[11:16:25] Você: comprovantes de pagamento
+[11:16:25] Bot: Para consultar seu extrato ou historico completo de transacoes, voce pode acessar a aba Minha Conta ou solicitar o relatorio detalhado.
+[11:16:26] Você: parcelamento
+[11:16:26] Bot: Parcelamento disponivel in ate 12x sem juros no credito.
+[11:16:26] Bot: Qual a bandeira do cartao e quantidade de parcelas? (Ex: Visa, 3x)
+[11:16:27] Você: formas de pagamento
+[11:16:27] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
+[11:16:28] Você: calcular desconto
+[11:16:28] Bot: Qual o valor da sua compra?
+[11:16:29] Você: cento e cinquenta reais
+[11:16:29] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[11:18:01] Você: calcular desconto
+[11:18:01] Bot: Qual o valor da sua compra?
+[11:18:07] Você: calcular desconto
+[11:18:07] Bot: Qual o valor da sua compra?
+[11:18:12] Você: paguei e nao constou
+[11:18:12] Bot: Perfeito, vou verificar o pagamento do seu pedido.
+[11:18:12] Bot: Pode me informar o CPF usado na compra?
+[11:18:14] Você: comprovantes de pagamento
+[11:18:14] Bot: Posso te ajudar com comprovantes, status de pagamento e conferência financeira por CPF. Para consultar um pedido, use o fluxo de confirmação de pagamento.
+[11:18:16] Você: parcelamento
+[11:18:16] Bot: Parcelamento disponível em até 12x sem juros no crédito.
+[11:18:16] Bot: Qual a bandeira do cartão e quantidade de parcelas? (Ex: Visa, 3x)
+[11:18:18] Você: formas de pagamento
+[11:18:18] Bot: Aceitamos Pix com desconto, cartão de crédito/débito Visa e Mastercard e dinheiro somente para retirada no local.
+[11:18:20] Você: calcular desconto
+[11:18:20] Bot: Qual o valor da sua compra?
+[11:18:25] Você: cento e cinquenta reais
+[11:18:25] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[11:19:03] Você: calcular desconto
+[11:19:03] Bot: Qual o valor da sua compra?
+[11:19:10] Você: calcular desconto
+[11:19:10] Bot: Qual o valor da sua compra?
+[11:19:16] Você: calcular desconto
+[11:19:16] Bot: Qual o valor da sua compra?
+[11:19:17] Você: cento e cinquenta reais
+[11:19:17] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[11:19:43] Você: R$ 150,00
+[11:19:43] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[11:21:51] Você: calcular desconto
+[11:21:51] Bot: Qual o valor da sua compra?
+[11:21:51] Você: R$ 150,00
+[11:21:51] Bot: Sobre R$ 150,00, o desconto de 10% é de R$ 15,00.
+Valor final: R$ 135,00
+[11:21:57] Você: calcular desconto
+[11:21:57] Bot: Qual o valor da sua compra?
+[11:21:58] Você: R$ 1.234,56
+[11:21:58] Bot: Sobre R$ 1234,56, o desconto de 10% é de R$ 123,46.
+Valor final: R$ 1111,10
+[11:22:04] Você: calcular desconto
+[11:22:04] Bot: Qual o valor da sua compra?
+[11:22:05] Você: cento e cinquenta reais
+[11:22:05] Bot: Para calcular, digite apenas números. Ex: 150.30 (tentativa 1/3)
+[11:22:11] Você: paguei e nao constou
+[11:22:11] Bot: Perfeito, vou verificar o pagamento do seu pedido.
+[11:22:11] Bot: Pode me informar o CPF usado na compra?
+[11:22:12] Você: comprovantes de pagamento
+[11:22:12] Bot: Posso te ajudar com comprovantes, status de pagamento e conferência financeira por CPF. Para consultar um pedido, use o fluxo de confirmação de pagamento.
+[11:22:13] Você: parcelamento
+[11:22:13] Bot: Parcelamento disponível em até 12x sem juros no crédito.
+[11:22:13] Bot: Qual a bandeira do cartão e quantidade de parcelas? (Ex: Visa, 3x)
+[11:22:14] Você: formas de pagamento
+[11:22:14] Bot: Aceitamos Pix com desconto, cartão de crédito/débito Visa e Mastercard e dinheiro somente para retirada no local.
+[11:23:04] Você: 10% de desconto em R$ 1.234,56
+[11:23:04] Bot: Resumo do cálculo financeiro FashionFlow:
+Valores informados:
+- Valor 1: R$ 1234,56
 
-[17:06:02] Sistema: === Nova sessão iniciada em 25/05/2026 17:06:02 ===
-[17:06:19] Você: quero saber as formas de pagamento
-[17:06:20] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
-[17:06:54] Bot: Atendimento finalizado preventivamente. Até logo! 👋
-[17:06:55] Sistema: === Sessão encerrada de forma limpa ===
-
-[18:44:13] Sistema: === Nova sessão iniciada em 25/05/2026 18:44:13 ===
-[18:44:29] Você: como ppago
-[18:44:30] Bot: Desculpe, não consegui compreender a sua dúvida. Pode tentar explicar de outra forma?
-[18:44:35] Você: como pago
-[18:44:36] Bot: Desculpe, não consegui compreender a sua dúvida. Pode tentar explicar de outra forma?
-[18:45:36] Bot: Atendimento finalizado preventivamente. Até logo! 👋
-[18:45:37] Sistema: === Sessão encerrada de forma limpa ===
-
-[18:45:49] Sistema: === Nova sessão iniciada em 25/05/2026 18:45:49 ===
-[18:47:24] Você: se eu comprar uma camisa de 120 reais, e pagar no pix qual desconto voce consegue me dar?
-[18:47:25] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
-[18:47:26] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
-[18:47:35] Você: s
-[18:47:35] Bot: Aqui estão os dados para transferência rápida via Pix: 👇
-[18:47:36] Bot: Chave CNPJ: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
-[18:47:38] Bot: A compensação ocorre instantaneamente de forma segura. Posso ajudar em algo mais?
-[18:48:10] Você: gostei da camisa azul de 350 reais, consigo parcelar no cartão?
-[18:48:11] Bot: Parcelamento disponivel in ate 12x sem juros no credito.
-[18:48:12] Bot: Qual a bandeira do cartao e quantidade de parcelas? (Ex: Visa, 3x)
-[18:49:01] Você: quero levar duas camisas de 150 reias e uma bermuda de 40, qual valor total que eu vou pagar
-[18:49:01] Bot: Preciso de uma informação válida para continuar. Para débito, diga Visa ou Mastercard. Para parcelamento, diga bandeira e parcelas (Ex: Visa, 3x).
-[18:49:53] Você: a camisa custa 200 reais, quanto fica o total somando a taxa de entrega somando 15 reais ao meu endereço
-[18:49:54] Bot: Preciso de uma informação válida para continuar. Para débito, diga Visa ou Mastercard. Para parcelamento, diga bandeira e parcelas (Ex: Visa, 3x).
-[18:49:58] Você: sair
-[18:49:59] Bot: Preciso de uma informação válida para continuar. Para débito, diga Visa ou Mastercard. Para parcelamento, diga bandeira e parcelas (Ex: Visa, 3x).
-[18:50:04] Você: visa, 3x
-[18:50:05] Bot: Registrado com sucesso: 'visa, 3x'. Redirecionando para o Gateway seguro.
-[18:50:21] Você: a camisa custa 200 reais, quanto fica o total somando a taxa de entrega somando 15 reais ao meu endereço
-[18:50:21] Bot: Desculpe, não consegui compreender a sua dúvida. Pode tentar explicar de outra forma?
-[10:45:53] Sistema: === Nova sessão iniciada em 26/05/2026 10:45:53 ===
-[10:45:57] Você: ola
-[10:45:57] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
-[10:46:06] Você: quero saber como pagar no pix
-[10:46:06] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
-[10:46:14] Você: quero pagar no pix
-[10:46:14] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
-[10:46:15] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
-[10:46:21] Você: s
-[10:46:22] Bot: Aqui estão os dados oficiais para transferência segura via Pix: 👇
-[10:46:23] Bot: Chave CNPJ: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
-[10:46:24] Bot: A compensação ocorre instantaneamente. Posso ajudar em algo mais?
-[10:46:45] Você: queria saber o preço da soma de uma camisa de 150 mais uma bermuda de 80
-[10:46:45] Bot: Desculpe, não consegui compreender a sua dúvida financeira. Pode tentar explicar de outra forma?
-[10:57:04] Bot: Atendimento finalizado preventivamente. Até logo! 👋
-[10:57:05] Sistema: === Sessão encerrada de forma limpa ===
-
-[10:58:25] Sistema: === Nova sessão iniciada em 26/05/2026 10:58:25 ===
-[10:58:28] Você: ola
-[10:58:29] Bot: Ola! Voce esta falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobranca, pagamento, reembolso, nota fiscal, Pix ou cartao.
-[10:58:34] Você: quero pagar no pix
-[10:58:35] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
-[10:58:36] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
-[10:59:02] Você: s
-[10:59:02] Bot: Aqui estão os dados oficiais para transferência segura via Pix: 👇
-[10:59:03] Bot: Chave CNPJ: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
-[10:59:04] Bot: A compensação ocorre instantaneamente. Posso ajudar em algo mais?
-[10:59:14] Você: quero saber a soma de 2 camisas de 150 reais
-[10:59:14] Bot: Desculpe, não consegui compreender a sua dúvida financeira. Pode tentar explicar de outra forma?
-[10:59:40] Você: se eu tenho uma camisa de 150 e uma bermuda de 80 qual o valor eu recebo de desconto no pix
-[10:59:40] Bot: Temos pagamento via Pix com aprovacao rapida e 5% de desconto.
-[10:59:42] Bot: Deseja gerar a chave Pix para o pedido? (s/n)
-[10:59:51] Você: quais são as opções de desconto
-[10:59:51] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
-[11:01:03] Você: sair
-[11:01:03] Bot: Atendimento finalizado. Obrigado por falar com o Financeiro da FashionFlow.
-[11:01:04] Sistema: === Sessão encerrada de forma limpa ===
-
-[11:01:10] Sistema: === Nova sessão iniciada em 26/05/2026 11:01:10 ===
-[11:01:19] Você: quero saber as opções de desconto
-[11:01:19] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
-[11:02:30] Bot: Atendimento finalizado preventivamente. Até logo! 👋
-[11:02:30] Sistema: === Sessão encerrada de forma limpa ===
-
-[11:02:34] Sistema: === Nova sessão iniciada em 26/05/2026 11:02:34 ===
-[11:02:45] Você: quais são as formas de desconto ativas
-[11:02:45] Bot: Aceitamos Pix com desconto, cartao de credito/debito Visa e Mastercard e dinheiro somente para retirada no local.
-[11:03:58] Bot: Atendimento finalizado preventivamente. Até logo! 👋
-[11:03:58] Sistema: === Sessão encerrada de forma limpa ===
-
-[11:04:03] Sistema: === Nova sessão iniciada em 26/05/2026 11:04:03 ===
-[11:04:08] Você: quais são os descontos ativos
-[11:04:23] Sistema: === Nova sessão iniciada em 26/05/2026 11:04:23 ===
-[11:04:30] Você: quais são os descontos ativos?
-[11:04:30] Bot: Promocao ativa: 5% de desconto para compras via Pix.
-[11:04:31] Bot: Deseja gerar a chave Pix agora? (s/n)
-[11:04:36] Você: quais as formas de desconto
-[11:04:36] Bot: Promocao ativa: 5% de desconto para compras via Pix.
-[11:04:37] Bot: Deseja gerar a chave Pix agora? (s/n)
-[11:04:45] Você: quais são as opçoes de desconto?
-[11:04:45] Bot: Promocao ativa: 5% de desconto para compras via Pix.
-[11:04:47] Bot: Deseja gerar a chave Pix agora? (s/n)
+Subtotal: R$ 1234,56
+Desconto aplicado (10%): -R$ 123,46
+Valor com desconto: R$ 1111,10
+Pix com 5% de desconto adicional: R$ 1055,55
+Crédito: até 12x sem juros de R$ 92,59
+[11:23:04] Bot: Deseja seguir com Pix ou Cartão? (s/n)
+[11:55:07] Você: olá
+[11:55:07] Bot: Olá! Você está falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobrança, pagamento, reembolso, nota fiscal, Pix ou cartão.
+[11:57:53] Você: comprovantes de pagamento
+[11:57:53] Bot: Posso te ajudar com comprovantes, status de pagamento e conferência financeira por CPF. Para consultar um pedido, use o fluxo de confirmação de pagamento.
+[11:57:59] Você: paguei e nao constou
+[11:57:59] Bot: Perfeito, vou verificar o pagamento do seu pedido.
+[11:57:59] Bot: Pode me informar o CPF usado na compra?
+[11:58:08] Você: 00000000000
+[11:58:08] Bot: Esse CPF não parece válido. Digite os 11 números ou use o formato 123.456.789-00.
+[11:58:15] Você: quero comprar
+[11:58:15] Bot: Fechar pedidos e ver o catálogo de produtos é com o time de Vendas! 🛍️ Por aqui no Financeiro eu cuido de pagamento, cobrança, reembolso e nota fiscal. Posso ajudar com algo desses assuntos?
+[11:58:19] Você: quero pagar
+[11:58:19] Bot: Aceitamos Pix com desconto, cartão de crédito/débito Visa e Mastercard e dinheiro somente para retirada no local.
+[11:58:26] Você: com pix
+[11:58:26] Bot: Temos pagamento via Pix com aprovação rápida e 5% de desconto.
+[11:58:26] Bot: Deseja ver as informações de Pix disponíveis para demonstração? (s/n)
+[11:58:28] Você: s
+[11:58:28] Bot: Dados para Pix: 👇
+[11:58:28] Bot: Chave CNPJ: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
+[11:58:28] Bot: Compensação instantânea. Posso ajudar em algo mais?
+[11:58:40] Você: paguei , quero meu recibo
+[11:58:40] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[11:58:47] Você: paguei, quero o meu recibo
+[11:58:47] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[11:58:51] Você: comprovantes de pagamento
+[11:58:51] Bot: Posso te ajudar com comprovantes, status de pagamento e conferência financeira por CPF. Para consultar um pedido, use o fluxo de confirmação de pagamento.
+[11:59:04] Você: formas de pagamento
+[11:59:04] Bot: Aceitamos Pix com desconto, cartão de crédito/débito Visa e Mastercard e dinheiro somente para retirada no local.
+[11:59:05] Você: paguei e nao constou
+[11:59:05] Bot: Perfeito, vou verificar o pagamento do seu pedido.
+[11:59:05] Bot: Pode me informar o CPF usado na compra?
+[11:59:11] Você: 12345678
+[11:59:11] Bot: Esse CPF não parece válido. Digite os 11 números ou use o formato 123.456.789-00.
+[11:59:24] Você: 12345678900
+[11:59:24] Bot: Oba! Pagamento do pedido #001 confirmado com sucesso (R$ 250,00). Nossa equipe já está preparando o próximo passo! 🎉
+[12:04:42] Você: paguei, quero meu recibo
+[12:04:42] Bot: Posso te ajudar com comprovantes e status de pagamento. Para consultar um pedido, informe o CPF cadastrado ou use o fluxo de confirmação de pagamento.
+[12:04:43] Você: paguei, quero o meu recibo
+[12:04:43] Bot: Posso te ajudar com comprovantes e status de pagamento. Para consultar um pedido, informe o CPF cadastrado ou use o fluxo de confirmação de pagamento.
+[12:04:44] Você: quero comprovante de pagamento
+[12:04:44] Bot: Posso te ajudar com comprovantes e status de pagamento. Para consultar um pedido, informe o CPF cadastrado ou use o fluxo de confirmação de pagamento.
+[12:04:45] Você: recibo
+[12:04:45] Bot: Posso te ajudar com comprovantes e status de pagamento. Para consultar um pedido, informe o CPF cadastrado ou use o fluxo de confirmação de pagamento.
+[12:04:46] Você: comprovantes de pagamento
+[12:04:46] Bot: Posso te ajudar com comprovantes e status de pagamento. Para consultar um pedido, informe o CPF cadastrado ou use o fluxo de confirmação de pagamento.
+[12:04:47] Você: paguei e nao constou
+[12:04:47] Bot: Perfeito, vou verificar o pagamento do seu pedido.
+[12:04:47] Bot: Pode me informar o CPF usado na compra?
+[12:04:48] Você: 222.333.444-55
+[12:04:48] Bot: Oba! Pagamento do pedido #004 confirmado com sucesso (R$ 135,00). Nossa equipe já está preparando o próximo passo! 🎉
+[12:05:38] Você: pix
+[12:05:38] Bot: Temos pagamento via Pix com aprovação rápida e 5% de desconto.
+[12:05:38] Bot: Deseja ver as informações de Pix disponíveis para demonstração? (s/n)
+[12:05:41] Você: s
+[12:05:41] Bot: Dados de demonstração para Pix:
+[12:05:41] Bot: Chave CNPJ de demonstração: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
+[12:05:41] Bot: Não realize pagamento real por estes dados nesta interface. Posso ajudar em algo mais?
+[14:55:34] Sistema: === Nova sessão: 06/07/2026 14:55:34 ===
+[14:56:07] Você: exit
+[14:56:07] Bot: Tem certeza que deseja encerrar o atendimento? (s/n)
+[14:56:09] Você: s
+[14:56:10] Bot: Atendimento finalizado. Obrigado por falar com o Financeiro da FashionFlow.
+[14:56:11] Sistema: === Sessão encerrada de forma limpa ===
+[15:00:08] Você: ola
+[15:00:08] Bot: Olá! Você está falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobrança, pagamento, reembolso, nota fiscal, Pix ou cartão.
+[18:19:24] Você: oi
+[18:19:24] Bot: Olá! Você está falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobrança, pagamento, reembolso, nota fiscal, Pix ou cartão.
+[18:19:49] Você: fala delicia
+[18:19:49] Bot: Olá! Você está falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobrança, pagamento, reembolso, nota fiscal, Pix ou cartão.
+[18:19:58] Você: calcular desconto
+[18:19:58] Bot: Qual o valor da sua compra?
+[18:20:02] Você: 150000000
+[18:20:02] Bot: Sobre R$ 150000000,00, o desconto de 10% é de R$ 15000000,00.
+Valor final: R$ 135000000,00
+[18:20:26] Você: eu gostaria de saber como faço pra acessar meu carrinho
+[18:20:26] Bot: Fechar pedidos e ver o catálogo de produtos é com o time de Vendas! 🛍️ Por aqui no Financeiro eu cuido de pagamento, cobrança, reembolso e nota fiscal. Posso ajudar com algo desses assuntos?
+[18:20:39] Você: carrinho
+[18:20:39] Bot: Fechar pedidos e ver o catálogo de produtos é com o time de Vendas! 🛍️ Por aqui no Financeiro eu cuido de pagamento, cobrança, reembolso e nota fiscal. Posso ajudar com algo desses assuntos?
+[18:21:02] Você: fala delicai
+[18:21:02] Bot: Olá! Você está falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobrança, pagamento, reembolso, nota fiscal, Pix ou cartão.
+[18:21:05] Você: ain ain
+[18:21:05] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[18:21:16] Você: se voce fosse um homem, que q voce faria?
+[18:21:16] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[18:21:18] Você: ain
+[18:21:18] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[18:21:18] Bot: Percebi que suas dúvidas demandam atenção personalizada.
+[18:21:18] Bot: Gostaria que eu sinalizasse a necessidade de atendimento humano do Financeiro? (s/n)
+[18:21:21] Você: yes
+[18:21:21] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[18:21:25] Você: cole gayy
+[18:21:25] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[18:21:31] Você: nao entende ingles nn?
+[18:21:31] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[18:21:31] Bot: Percebi que suas dúvidas demandam atenção personalizada.
+[18:21:31] Bot: Gostaria que eu sinalizasse a necessidade de atendimento humano do Financeiro? (s/n)
+[18:21:34] Você: s
+[18:21:34] Bot: Esse caso precisa de análise humana do Financeiro. Nesta interface, vou apenas sinalizar essa necessidade.
+[18:21:34] Bot: Necessidade de atendimento humano sinalizada. Se quiser, posso continuar te ajudando por aqui — é só digitar 'voltar'.
+[18:21:39] Você: voltar
+[18:21:39] Bot: Ok, voltei! Como posso te ajudar com o financeiro?
+[18:27:00] Você: ola
+[18:27:00] Bot: Olá! Você está falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobrança, pagamento, reembolso, nota fiscal, Pix ou cartão.
+[18:27:23] Você: gostaria de sabr as formas de pagamento
+[18:27:23] Bot: Aceitamos Pix com desconto, cartão de crédito/débito Visa e Mastercard e dinheiro somente para retirada no local.
+[18:27:37] Você: quero que você salve meu nome
+[18:27:37] Bot: Olá! Você está falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobrança, pagamento, reembolso, nota fiscal, Pix ou cartão.
+[18:28:19] Você: queria confirmar o pagamento
+[18:28:19] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[18:28:27] Você: confirmar pagamento
+[18:28:27] Bot: Perfeito, vou verificar o pagamento do seu pedido.
+[18:28:27] Bot: Pode me informar o CPF usado na compra?
+[18:28:32] Você: 09616792555
+[18:28:33] Bot: Não encontrei nenhum pedido com esse CPF. Poderia conferir o número e tentar novamente?
+[18:29:16] Você: 222.333.444-55
+[18:29:16] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[18:29:20] Você: paguei e nao constou
+[18:29:20] Bot: Perfeito, vou verificar o pagamento do seu pedido.
+[18:29:20] Bot: Pode me informar o CPF usado na compra?
+[18:29:23] Você: 222.333.444-55
+[18:29:23] Bot: Oba! Pagamento do pedido #004 confirmado com sucesso (R$ 135,00). Nossa equipe já está preparando o próximo passo! 🎉
+[18:30:37] Você: paguei e nao constou
+[18:30:37] Bot: Perfeito, vou verificar o pagamento do seu pedido.
+[18:30:37] Bot: Pode me informar o CPF usado na compra?
+[18:41:44] Você: oi
+[18:41:44] Bot: Olá! Você está falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobrança, pagamento, reembolso, nota fiscal, Pix ou cartão.
+[18:42:23] Você: quero pagar no pix
+[18:42:23] Bot: Aceitamos Pix com desconto, cartão de crédito/débito Visa e Mastercard e dinheiro somente para retirada no local.
+[18:42:30] Você: quero comprar uma camisa
+[18:42:30] Bot: Fechar pedidos e ver o catálogo de produtos é com o time de Vendas! 🛍️ Por aqui no Financeiro eu cuido de pagamento, cobrança, reembolso e nota fiscal. Posso ajudar com algo desses assuntos?
+[18:42:48] Você: quero calcular o frete do meu produto
+[18:42:49] Bot: Cálculo de frete, CEP e rastreio de entrega é com o time de Logística. 🚚 Aqui no Financeiro posso ajudar com pagamento, cobrança ou reembolso, se precisar.
+[18:43:06] Você: quantas camisas tem no estoque
+[18:43:06] Bot: Consultar disponibilidade em estoque é com o time de Estoque. 📦 Aqui no Financeiro eu só cuido da parte de pagamento do seu pedido. Posso ajudar com isso?
+[18:43:15] Você: quais as formas de pagamento
+[18:43:15] Bot: Aceitamos Pix com desconto, cartão de crédito/débito Visa e Mastercard e dinheiro somente para retirada no local.
+[18:43:41] Você: quero saber o desconto total
+[18:43:41] Bot: Qual o valor da sua compra?
+[18:43:44] Você: 135
+[18:43:44] Bot: Sobre R$ 135,00, o desconto de 10% é de R$ 13,50.
+Valor final: R$ 121,50
+[18:44:11] Você: quero saber o desconto total
+[18:44:11] Bot: Qual o valor da sua compra?
+[18:44:23] Você: cento e cinquenta reais
+[18:44:23] Bot: Para calcular, digite apenas números. Ex: 150.30 (tentativa 1/3)
+[18:44:50] Você: ola
+[18:44:50] Bot: Olá! Você está falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobrança, pagamento, reembolso, nota fiscal, Pix ou cartão.
+[18:45:05] Você: quero pagar no pix
+[18:45:05] Bot: Aceitamos Pix com desconto, cartão de crédito/débito Visa e Mastercard e dinheiro somente para retirada no local.
+[18:45:15] Você: quero comprar uma nova camisa
+[18:45:15] Bot: Fechar pedidos e ver o catálogo de produtos é com o time de Vendas! 🛍️ Por aqui no Financeiro eu cuido de pagamento, cobrança, reembolso e nota fiscal. Posso ajudar com algo desses assuntos?
+[18:45:49] Você: quero calcular meu desconto
+[18:45:49] Bot: Qual o valor da sua compra?
+[18:45:57] Você: 150
+[18:45:57] Bot: Sobre R$ 150,00, o desconto de 10% é de R$ 15,00.
+Valor final: R$ 135,00
+[18:47:57] Você: quero calcular meu desconto
+[18:47:57] Bot: Qual o valor da sua compra?
+[18:48:03] Você: quero pagar no pix
+[18:48:03] Bot: Aceitamos Pix com desconto, cartão de crédito/débito Visa e Mastercard e dinheiro somente para retirada no local.
+[18:48:18] Você: gere meu qrcode
+[18:48:18] Bot: Desculpe, não consegui compreender. Pode tentar explicar de outra forma?
+[18:48:23] Você: gerar qr code
+[18:48:23] Bot: Temos pagamento via Pix com aprovação rápida e 5% de desconto.
+[18:48:23] Bot: Deseja ver as informações de Pix disponíveis para demonstração? (s/n)
+[18:48:51] Você: s
+[18:48:51] Bot: Dados de demonstração para Pix:
+[18:48:51] Bot: Chave CNPJ de demonstração: 12.345.678/0001-99 (FashionFlow Pagamentos Ltda)
+[18:48:51] Bot: Não realize pagamento real por estes dados nesta interface. Posso ajudar em algo mais?
+[18:53:27] Você: oi
+[18:53:27] Bot: Olá! Você está falando com o atendimento financeiro da FashionFlow. Posso ajudar com cobrança, pagamento, reembolso, nota fiscal, Pix ou cartão.
